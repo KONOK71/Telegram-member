@@ -29,7 +29,7 @@
 
 `$ pkg install -y git python`
 
-`$ git clone https://github.com/SkidGod4444/TeleGram-Member-Adder`
+`$ git clone https://github.com/KONOK71/Telegram-member.git`
 
 `$ cd TeleGram-Member-Adder`
 
